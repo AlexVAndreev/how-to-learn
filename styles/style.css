@@ -238,6 +238,7 @@
   color: white;
 }
 .footer__column_content_copyright {
+  flex-basis: 711px;
   justify-content: space-between;
 }
 .footer__column_content_info {
@@ -260,9 +261,6 @@
   width: 16px;
   height: 16px;
   margin-right: 10px;
-}
-.footer__column_content_copyright {
-  flex-basis: 711px;
 }
 .footer__column-link {
   color: white;
