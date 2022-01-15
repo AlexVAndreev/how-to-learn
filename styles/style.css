@@ -100,7 +100,7 @@
   font-size: 24px;
   font-style: normal;
 }
-.two-columns__span_accent {
+.two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
   font-weight: bold;
@@ -191,6 +191,7 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
+  color: #2f80ed;
   top: 50%;
   right: 48px;
 }
